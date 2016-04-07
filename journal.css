@@ -4,7 +4,7 @@ src: url("http://www.wickedlysmart.com/hfhtmlcss/chapter8/journal/EmblemaOne-Reg
 url("http://www.wickedlysmart.com/hfhtmlcss/chapter8/journal/EmblemaOne-Regular.ttf");}
 
 body {font-family: "Emblema One", Verdana, Geneva, Arial, sans-serif; 
-	font-size: small;}
+	font-size: medium;}
 h1,h2 {color: gray;
 	border-bottom: 1px solid black;}
 h1 {font-size: 150%;}
