@@ -9,3 +9,4 @@ h1,h2 {color: gray;
 	border-bottom: 1px solid black;}
 h1 {font-size: 150%;}
 h2 {font-size: 1.2em;}
+em{text-decoration: line-through;}
